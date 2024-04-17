@@ -1,5 +1,6 @@
 # twopasswords’ Trust Percentiles
 
+Note: This is a forked repo. The original repo is [here](https://github.com/gennadis/twopasswords).
 *Data as of January 31, 2024*
 
 ### [grade] 
