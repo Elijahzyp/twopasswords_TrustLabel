@@ -99,7 +99,7 @@ Security and review of the project’s code. Contributors can increase these met
 
 
 
-​																				[Metric Details]()
+​																				[Metric Details](https://github.com/Elijahzyp/twopasswords_TrustLabel/blob/branch_mcpc/MCPC%20Template%20Metric%20Details.md)
 
 
 
