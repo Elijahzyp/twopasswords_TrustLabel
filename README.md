@@ -1,21 +1,42 @@
-# twopasswords’ Trust Percentiles
+# twopasswords' Trustee Percentiles
 
 *Data as of January 31, 2024*
 
 ### [grade] 
 
--- Above grade is based on the percentile rankings of the 3 trust component scores below, which are compared with the top 1000 most-downloaded npm libraries.
+-- Above grade is based on the percentile rankings of the 4 repo scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- Top [number] Percentile</strong></summary>
+<summary><span style="font-size: 20px;"><strong>Maintenance -- Top [number] Percentile</strong></summary>
 <div>
 <strong>Top [number] Percentile</strong> [histogram]<br>
-Activity and usage by this project’s consumers and contributors. More people using and contributing to this project increases these metrics.<br><br>
+Activity and involvement by this project’s maintainer(s). Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div>
 <div>
-  <strong>Usage Popularity:</strong> [number] percentile
-  <p>How much consumers use this project: stars, watches, forks, downstream dependents.</p>
+  <strong>Issues Maintenance:</strong> [number] percentile
+  <p>How efficiently issues are addressed: issues closed and comments on issues.</p>
 </div>
+<div>
+  <strong>Community Documentation:</strong> [number] percentile
+  <p>Support for the community to participate: issue and PR templates, code of conduct, governance, etc.</p>
+</div>
+<div>
+  <strong>Code Maintenance:</strong> [number] percentile
+  <p>How efficiently code changes are addressed: commits and PRs closed, commit standards.</p>
+</div>
+<div>
+  <strong>Maintainer History:</strong> [number] percentile
+  <p>Maintainer experience: maintainers' other projects.</p>
+</div>
+</details>
+
+
+<details>
+<summary><span style="font-size: 20px;"><strong>Contribution -- Top [number] Percentile</strong></summary>
+<div>
+<strong>Top [number] Percentile</strong> [histogram]<br>
+Activity and involvement by this project’s contributors. Fostering and encouraging more contribution and participation would increase these metrics.<br><br>
+</div> 
 <div>
   <strong>Code Contribution:</strong> [number] percentile
   <p>Activity to add to the codebase: commits and PRs.</p>
@@ -32,26 +53,26 @@ Activity and usage by this project’s consumers and contributors. More people u
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Maintenance and Goodwill -- Top [number] Percentile</strong></summary>
+<summary><span style="font-size: 20px;"><strong>Popularity -- Top [number] Percentile</strong></summary>
 <div>
 <strong>Top [number] Percentile</strong> [histogram]<br>
-Activity and involvement by this project’s maintainer(s) for the benefit of the project community. Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
-</div> 
+Activity and usage by this project’s consumers. Spreading this project to more users and maintaining it over time increases these metrics.<br><br>
+</div>   
 <div>
-  <strong>Issues Maintenance:</strong> [number] percentile
-  <p>How efficiently issues are addressed: issues closed and comments on issues.</p>
+  <strong>Stars and Watches:</strong>  [number] percentile
+  <p>How much consumers follow this project: stargazers, watchers.</p>
 </div>
 <div>
-  <strong>Community Documentation:</strong> [number] percentile
-  <p>Support for the community to participate: issue and PR templates, code of conduct, governance, etc.</p>
+  <strong>Forks:</strong>  [number] percentile
+  <p>How much developers fork this project.</p>
 </div>
 <div>
-  <strong>Code Maintenance:</strong> [number] percentile
-  <p>How efficiently code changes are addressed: commits and PRs closed, commit standards.</p>
+  <strong>Downstream Dependents:</strong>  [number] percentile
+  <p>For projects producing packages and dependencies, how many downstream projects rely on them.</p>
 </div>
 <div>
-  <strong>Maintainer History:</strong> [number] percentile
-  <p>Maintainer experience: maintainers' other projects</p>
+  <strong>Project Maturity:</strong>  [number] percentile
+  <p>Size and age of repo: lines of code, creation time, versions.</p>
 </div>
 </details>
 
@@ -60,7 +81,7 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 <summary><span style="font-size: 20px;"><strong>Code Quality -- Top [number] Percentile</strong></summary>
 <div>
 <strong>Top [number] Percentile</strong> [histogram]<br>
-Security and scalability of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
+Security and review of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>   
 <div>
   <strong>Dependencies Health:</strong>  [number] percentile
@@ -74,12 +95,7 @@ Security and scalability of the project’s code. Contributors can increase thes
   <strong>Testing Quality:</strong>  [number] percentile
   <p>Scale of automated tests: workflow runs, check runs, code authors.</p>
 </div>
-<div>
-  <strong>Project Maturity:</strong>  [number] percentile
-  <p>Size and age of repo: lines of code, creation time, versions.</p>
-</div>
 </details>
-
 
 
 
