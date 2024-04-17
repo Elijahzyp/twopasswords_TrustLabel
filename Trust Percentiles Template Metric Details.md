@@ -1,7 +1,6 @@
 # twopasswords’ Metric Details
 
-- **Website Link:** [link.url](link.url)
-- *as of 2024.01.31. GitHub Commit History for this file: [link.github.com](link.github.com)*
+*Data as of January 31, 2024*
 
 *This page provides a detailed breakdown of the metrics discussed on the previous page.*
 
