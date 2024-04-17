@@ -2,7 +2,7 @@
 
 *Data as of January 31, 2024*
 
-*This page provides a detailed breakdown of the metrics discussed on the previous page.*
+*This page provides a detailed breakdown of the metrics discussed on the [previous page](https://github.com/Elijahzyp/twopasswords_TrustLabel/tree/main).*
 
 ## Community Activity and Integrity
 
