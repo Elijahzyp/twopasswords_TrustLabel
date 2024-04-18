@@ -13,22 +13,30 @@ Note: This is a forked repo. The original repo is [here](https://github.com/genn
 <center><img src="./images/twopasswords/maintenance.png" width="400px" height="180px"></center><br>
 Activity and involvement by this project’s maintainer(s). Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div>
-<div>
-  <strong>Issues Maintenance:</strong> Top 0.0 Percentile
-  <p>How efficiently issues are addressed: issues closed and comments on issues.</p>
-</div>
-<div>
-  <strong>Community Documentation:</strong> Top 38.9 Percentile
-  <p>Support for the community to participate: issue and PR templates, code of conduct, governance, etc.</p>
-</div>
-<div>
-  <strong>Code Maintenance:</strong> Top 0.0 percentile
-  <p>How efficiently code changes are addressed: commits and PRs closed, commit standards.</p>
-</div>
-<div>
-  <strong>Maintainer History:</strong> Top 24.2 Percentile
-  <p>Maintainer experience: maintainers' other projects.</p>
-</div>
+<table>
+  <tr>
+    <td>
+      <div>
+        <strong>Issues Maintenance:</strong> Top 0.0 Percentile
+        <p>How efficiently issues are addressed: issues closed and comments on issues.</p>
+      </div>
+      <div>
+        <strong>Community Documentation:</strong> Top 38.9 Percentile
+        <p>Support for the community to participate: issue and PR templates, code of conduct, governance, etc.</p>
+      </div>
+    </td>
+    <td>
+      <div>
+        <strong>Code Maintenance:</strong> Top 0.0 Percentile
+        <p>How efficiently code changes are addressed: commits and PRs closed, commit standards.</p>
+      </div>
+      <div>
+        <strong>Maintainer History:</strong> Top 24.2 Percentile
+        <p>Maintainer experience: maintainers' other projects</p>
+      </div>
+    </td>
+  </tr>
+</table>
 </details>
 
 
@@ -38,18 +46,26 @@ Activity and involvement by this project’s maintainer(s). Maintainers could in
 <center><img src="./images/twopasswords/contribution.png" width="400px" height="180px"></center><br>
 Activity and involvement by this project’s contributors. Fostering and encouraging more contribution and participation would increase these metrics.<br><br>
 </div> 
-<div>
-  <strong>Code Contribution:</strong> Top 0.0 Percentile
-  <p>Activity to add to the codebase: commits and PRs.</p>
-</div>
-<div>
-  <strong>Contributor Participation:</strong> Top 0.0 Percentile
-  <p>Activity in discussion and participation: number of contributors, comments made, quality of comments.</p>
-</div>
-<div>
-  <strong>Contributor Growth:</strong> Top 0.0 Percentile
-  <p>How the project is scaling in size: change in contributors, PRs.</p>
-</div>
+<table>
+  <tr>
+    <td>
+      <div>
+        <strong>Code Contribution:</strong> Top 0.0 Percentile
+        <p>Activity to add to the codebase: commits and PRs.</p>
+      </div>
+      <div>
+        <strong>Contributor Participation:</strong> Top 0.0 Percentile
+        <p>Activity in discussion and participation: number of contributors, comments made, quality of comments.</p>
+      </div>
+    </td>
+    <td>
+      <div>
+        <strong>Contributor Growth:</strong> Top 0.0 Percentile
+        <p>How the project is scaling in size: change in contributors, PRs.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 </details>
 
 
@@ -58,23 +74,31 @@ Activity and involvement by this project’s contributors. Fostering and encoura
 <div>
 <center><img src="./images/twopasswords/popularity.png" width="400px" height="180px"></center><br>
 Activity and usage by this project’s consumers. Spreading this project to more users and maintaining it over time increases these metrics.<br><br>
-</div>   
-<div>
-  <strong>Stars and Watches:</strong> Top 6.3 Percentile
-  <p>How much consumers follow this project: stargazers, watchers.</p>
-</div>
-<div>
-  <strong>Forks:</strong> Top 0.6 Percentile
-  <p>How much developers fork this project.</p>
-</div>
-<div>
-  <strong>Downstream Dependents:</strong> Top 22.7 Percentile
-  <p>For projects producing packages and dependencies, how many downstream projects rely on them.</p>
-</div>
-<div>
-  <strong>Project Maturity:</strong> Top 0.3 Percentile
-  <p>Size and age of repo: lines of code, creation time, versions.</p>
-</div>
+</div>  
+<table>
+  <tr>
+    <td>
+      <div>
+        <strong>Stars and Watches:</strong> Top 6.3 Percentile
+        <p>How much consumers follow this project: stargazers, watchers.</p>
+      </div>
+      <div>
+        <strong>Forks:</strong> Top 0.6 Percentile
+        <p>How much developers fork this project.</p>
+      </div>
+    </td>
+    <td>
+      <div>
+        <strong>Downstream Dependents:</strong> Top 22.7 Percentile
+        <p>For projects producing packages and dependencies, how many downstream projects rely on them.</p>
+      </div>
+      <div>
+        <strong>Project Maturity:</strong> Top 0.3 Percentile
+        <p>Size and age of repo: lines of code, creation time, versions.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 </details>
 
 
@@ -84,18 +108,26 @@ Activity and usage by this project’s consumers. Spreading this project to more
 <center><img src="./images/twopasswords/code_quality.png" width="400px" height="180px"></center><br>
 Security and review of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>   
-<div>
-  <strong>Dependencies Health:</strong> Top 11.5 Percentile
-  <p>Mitigation of dependency vulnerability risk: dependency versions, reported vulnerabilities.</p>
-</div>
-<div>
-  <strong>Review Coverage:</strong> Top 0.2 Percentile
-  <p>Scale of manual code reviews: contributors and reviewers per code portion, commit sizes.</p>
-</div>
-<div>
-  <strong>Testing Quality:</strong> Top 0.0 Percentile
-  <p>Scale of automated tests: workflow runs, check runs, code authors.</p>
-</div>
+<table>
+  <tr>
+    <td>
+      <div>
+        <strong>Dependencies Health:</strong> Top 11.5 Percentile
+        <p>Mitigation of dependency vulnerability risk: dependency versions, reported vulnerabilities.</p>
+      </div>
+      <div>
+        <strong>Review Coverage:</strong> Top 0.2 Percentile
+        <p>Scale of manual code reviews: contributors and reviewers per code portion, commit sizes.</p>
+      </div>
+    </td>
+    <td>
+      <div>
+        <strong>Testing Quality:</strong> Top 0.0 Percentile
+        <p>Scale of automated tests: workflow runs, check runs, code authors.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 </details>
 
 
