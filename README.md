@@ -10,7 +10,10 @@ Note: This is a forked repo. The original repo is [here](https://github.com/genn
 <details>
 <summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Top <strong><span style="color: blue;">1.88</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/twopasswords/community_activity_and_integrity_component.png" width="400px" height="180px"></center><br>
+<div align=center>
+  <img src="./images/twopasswords/community_activity_and_integrity_component.png" width="500px" height="180px"/>
+</div>
+<!-- <center><img src="./images/twopasswords/community_activity_and_integrity_component.png" width="400px" height="180px"></center><br> -->
 Activity and usage by this project’s consumers and contributors. More people using and contributing to this project increases these metrics.<br><br>
 </div>
 <table>
@@ -43,7 +46,10 @@ Activity and usage by this project’s consumers and contributors. More people u
 <details>
 <summary><span style="font-size: 20px;"><strong>Maintenance and Goodwill -- </strong>Top <strong><span style="color: blue;">15.77</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/twopasswords/maintenance_and_goodwill_component.png" width="400px" height="180px"></center><br>
+<div align=center>
+  <img src="./images/twopasswords/maintenance_and_goodwill_component.png" width="500px" height="180px"/>
+</div>
+<!-- <center><img src="./images/twopasswords/maintenance_and_goodwill_component.png" width="400px" height="180px"></center><br> -->
 Activity and involvement by this project’s maintainer(s) for the benefit of the project community. Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div> 
 <table>
@@ -76,7 +82,10 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 <details>
 <summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Top <strong><span style="color: blue;">3.0</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/twopasswords/code_quality_component.png" width="400px" height="180px"></center><br>
+<div align=center>
+  <img src="./images/twopasswords/code_quality_component.png" width="500px" height="180px"/>
+</div>
+<!-- <center><img src="./images/twopasswords/code_quality_component.png" width="400px" height="180px"></center><br> -->
 Security and scalability of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>  
 <table>
