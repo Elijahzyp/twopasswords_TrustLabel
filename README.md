@@ -8,7 +8,7 @@ Note: This is a forked repo. The original repo is [here](https://github.com/genn
 -- Above grade is based on the percentile rankings of the 3 trust component scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Top <strong><span style="color: blue;">2.3</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Top <strong><span style="color: blue;">2.5</span></strong> Percentile</summary>
 <div>
 <div align=center>
   <img src="./images/twopasswords/community_activity_and_integrity_component.png" width="500px" height="180px"/>
@@ -20,7 +20,7 @@ Activity and usage by this project’s consumers and contributors. More people u
   <tr>
     <td>
       <div>
-        <strong>Usage Popularity:</strong> Top 7.5 Percentile
+        <strong>Usage Popularity:</strong> Top 9.9 Percentile
         <p>How much consumers use this project: stars, watches, forks, downstream dependents.</p>
       </div>
       <div>
