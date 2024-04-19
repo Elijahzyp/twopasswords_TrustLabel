@@ -5,13 +5,13 @@ Note: This is a forked repo. The original repo is [here](https://github.com/genn
 
 <center><img src="./images/grade_f.svg" width="100px" height="100px"></center>
 
--- Above grade is based on the percentile rankings of the 4 repo scores below, which are compared with the top 1000 most-downloaded npm libraries.
+This grade is based on the percentile rankings of the 4 repo scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
 <summary><span style="font-size: 20px;"><strong>Maintenance -- </strong>Beats <strong><span style="color: blue;">15.8%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/twopasswords/maintenance.png" width="500px" height="180px">
+  <img src="./images/twopasswords/maintenance.png" width="500px" height="125px">
 </div>
 Activity and involvement by this project’s maintainer(s). Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div>
@@ -19,21 +19,21 @@ Activity and involvement by this project’s maintainer(s). Maintainers could in
   <tr>
     <td>
       <div>
-        <strong>Issues Maintenance:</strong> Top 0.0 Percentile
+        <strong>Issues Maintenance:</strong> Beats <strong>0.0%</strong>
         <p>How efficiently issues are addressed: issues closed and comments on issues.</p>
       </div>
       <div>
-        <strong>Community Documentation:</strong> Top 38.9 Percentile
+        <strong>Community Documentation:</strong> Beats <strong>38.9%</strong>
         <p>Support for the community to participate: issue and PR templates, code of conduct, governance, etc.</p>
       </div>
     </td>
     <td>
       <div>
-        <strong>Code Maintenance:</strong> Top 0.0 Percentile
+        <strong>Code Maintenance:</strong> Beats <strong>0.0%</strong>
         <p>How efficiently code changes are addressed: commits and PRs closed, commit standards.</p>
       </div>
       <div>
-        <strong>Maintainer History:</strong> Top 24.2 Percentile
+        <strong>Maintainer History:</strong> Beats <strong>24.2%</strong>
         <p>Maintainer experience: maintainers' other projects</p>
       </div>
     </td>
@@ -46,7 +46,7 @@ Activity and involvement by this project’s maintainer(s). Maintainers could in
 <summary><span style="font-size: 20px;"><strong>Contribution -- </strong>Beats <strong><span style="color: blue;">0.0%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/twopasswords/contribution.png" width="500px" height="180px">
+  <img src="./images/twopasswords/contribution.png" width="500px" height="125px">
 </div>
 Activity and involvement by this project’s contributors. Fostering and encouraging more contribution and participation would increase these metrics.<br><br>
 </div> 
@@ -54,17 +54,17 @@ Activity and involvement by this project’s contributors. Fostering and encoura
   <tr>
     <td>
       <div>
-        <strong>Code Contribution:</strong> Top 0.0 Percentile
-        <p>Activity to add to the codebase: commits and PRs.</p>
+        <strong>Code Contribution:</strong> Beats <strong>0.0%</strong>
+        <p>Activity which adds to the codebase: commits and PRs.</p>
       </div>
       <div>
-        <strong>Contributor Participation:</strong> Top 0.0 Percentile
+        <strong>Contributor Participation:</strong> Beats <strong>0.0%</strong>
         <p>Activity in discussion and participation: number of contributors, comments made, quality of comments.</p>
       </div>
     </td>
     <td>
       <div>
-        <strong>Contributor Growth:</strong> Top 0.0 Percentile
+        <strong>Contributor Growth:</strong> Beats <strong>0.0%</strong>
         <p>How the project is scaling in size: change in contributors, PRs.</p>
       </div>
     </td>
@@ -77,7 +77,7 @@ Activity and involvement by this project’s contributors. Fostering and encoura
 <summary><span style="font-size: 20px;"><strong>Popularity -- </strong>Beats <strong><span style="color: blue;">7.5%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/twopasswords/popularity.png" width="500px" height="180px">
+  <img src="./images/twopasswords/popularity.png" width="500px" height="125px">
 </div>
 Activity and usage by this project’s consumers. Spreading this project to more users and maintaining it over time increases these metrics.<br><br>
 </div>  
@@ -85,21 +85,21 @@ Activity and usage by this project’s consumers. Spreading this project to more
   <tr>
     <td>
       <div>
-        <strong>Stars and Watches:</strong> Top 6.3 Percentile
+        <strong>Stars and Watches:</strong> Beats <strong>6.3%</strong>
         <p>How much consumers follow this project: stargazers, watchers.</p>
       </div>
       <div>
-        <strong>Forks:</strong> Top 0.6 Percentile
+        <strong>Forks:</strong> Beats <strong>0.6%</strong>
         <p>How much developers fork this project.</p>
       </div>
     </td>
     <td>
       <div>
-        <strong>Downstream Dependents:</strong> Top 22.7 Percentile
+        <strong>Downstream Dependents:</strong> Beats <strong>22.7%</strong>
         <p>For projects producing packages and dependencies, how many downstream projects rely on them.</p>
       </div>
       <div>
-        <strong>Project Maturity:</strong> Top 0.3 Percentile
+        <strong>Project Maturity:</strong> Beats <strong>0.3%</strong>
         <p>Size and age of repo: lines of code, creation time, versions.</p>
       </div>
     </td>
@@ -112,7 +112,7 @@ Activity and usage by this project’s consumers. Spreading this project to more
 <summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Beats <strong><span style="color: blue;">3.0%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/twopasswords/code_quality.png" width="500px" height="180px">
+  <img src="./images/twopasswords/code_quality.png" width="500px" height="125px">
 </div>
 Security and review of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>   
@@ -120,17 +120,17 @@ Security and review of the project’s code. Contributors can increase these met
   <tr>
     <td>
       <div>
-        <strong>Dependencies Health:</strong> Top 11.5 Percentile
+        <strong>Dependencies Health:</strong> Beats <strong>11.5%</strong>
         <p>Mitigation of dependency vulnerability risk: dependency versions, reported vulnerabilities.</p>
       </div>
       <div>
-        <strong>Review Coverage:</strong> Top 0.2 Percentile
+        <strong>Review Coverage:</strong> Beats <strong>0.2%</strong>
         <p>Scale of manual code reviews: contributors and reviewers per code portion, commit sizes.</p>
       </div>
     </td>
     <td>
       <div>
-        <strong>Testing Quality:</strong> Top 0.0 Percentile
+        <strong>Testing Quality:</strong> Beats <strong>0.0%</strong>
         <p>Scale of automated tests: workflow runs, check runs, code authors.</p>
       </div>
     </td>
